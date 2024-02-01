@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+#boton1 {
+    height: 30px;
+    width:  30px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: green;
+}
